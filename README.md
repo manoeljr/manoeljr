@@ -21,7 +21,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=djangorestframework)&nbsp;
+![DjangoRestFramework](https://img.shields.io/badge/-Django-05122A?style=flat&logo=djangorestframework)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
