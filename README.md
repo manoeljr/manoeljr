@@ -29,6 +29,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgres)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
