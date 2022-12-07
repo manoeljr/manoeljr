@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently learning ** Python | Java | Data Engineering | AI **
 
-- 💬  Evolving in **Linux 🐧**
+- 💬  Evolving in ** Linux 🐧 **
 
 - ⚡ Fun fact **I ❤️️ ☕**
 
