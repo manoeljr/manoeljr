@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=manoeljr&show_icons=true&theme=nightowl" alt="manoeljr's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=manoeljr&show_icons=true&theme=dark" alt="manoeljr's stats"/>
 </p>
 
 ##
